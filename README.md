@@ -33,21 +33,6 @@ Dec 2023 – Present
 
 ---
 
-## 🚀 Key Projects
-
-### Surgical Skill Assessment System
-- Designed a computer vision platform to analyze surgical videos and provide data-driven feedback.
-- Built a complete data pipeline and implemented segmentation/tracking algorithms in PyTorch.
-
-### Agentic-RAG Surgical Training Assistant (Sharif LLM Hackathon)
-- Created an AI agent that processes voice feedback from surgeons and recommends textbook passages and tutorials.
-- Achieved Top 10 ranking among 120 teams, leveraging LangChain and FastAPI.
-
-### Agentic Book Assistant
-- Developed a multi-agent interactive book reading assistant.
-- Integrated LangGraph for query routing, FAISS vector store for context search, and built a FastAPI backend with a Streamlit frontend.
-
----
 
 ## 🎓 Education
 
